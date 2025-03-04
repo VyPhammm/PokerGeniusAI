@@ -1,6 +1,6 @@
 # Poker Genius AI 🎲
 
-A sophisticated web-based poker probability calculator leveraging Game Theory Optimal (GTO) strategies and OpenAI's ChatGPT API to provide real-time poker decision recommendations.
+A sophisticated web-based poker probability calculator leveraging Game Theory Optimal (GTO) strategies and Gemini API to provide real-time poker decision recommendations.
 
 ## Features 🚀
 
