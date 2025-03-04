@@ -127,5 +127,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Vy Pham - [@linkedin]([https://twitter.com/yourtwitter](https://www.linkedin.com/in/vyphamgia/))
 Project Link: [https://github.com/yourusername/PokerGeniusAI](https://github.com/yourusername/PokerGeniusAI)
