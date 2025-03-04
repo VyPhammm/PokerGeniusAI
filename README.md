@@ -17,7 +17,7 @@ A sophisticated web-based poker probability calculator leveraging Game Theory Op
 - **Frontend**: React.js
 - **Styling**: TailwindCSS
 - **State Management**: React Context API
-- **API Integration**: OpenAI ChatGPT
+- **API Integration**: Gemini AI
 - **Deployment**: Vercel/Netlify
 
 ## Prerequisites 📋
@@ -43,7 +43,7 @@ yarn install
 
 3. Create a `.env` file in the root directory and add your OpenAI API key:
 ```env
-REACT_APP_OPENAI_API_KEY=your_api_key_here
+REACT_APP_GEMINI_API_KEY=your_api_key_here
 ```
 
 4. Start the development server:
@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments 👏
 
-- OpenAI for API integration
+- Gemini for API integration
 - Create React App team
 - TailwindCSS community
 
